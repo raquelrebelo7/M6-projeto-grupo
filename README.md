@@ -1,32 +1,34 @@
-# M6-projeto-grupo
-
-#Sobre o projeto
+# Sobre o projeto
 
 Esse projeto consiste em desenvolver um site possuindo um front-end que consiga se comunicar com o back-end, usando uma API para acesso ao banco de dados, para assim realizar o CRUD.
 
-#Tecnologias utilizadas 
+# Tecnologias utilizadas
 
 Front: React e Bootstrap
 
 Back: Node Express e SQLite
 
-#Como executar?
+ 
+# Como executar?
+ 1. Front-end
 
-1- Front-end
+ Para executar o front-end basta abrir o terminal no Visual Studio Code, selecionando a pasta do projeto, em seguida é só inserir os comando abaixo para abrir o React.
 
-Para executar o front-end basta abrir o terminal no Visual Studio Code, selecionando a pasta do projeto, em seguida é só inserir os comandos abaixo para abrir o React.
+- npm install
 
--npm install
--npm start
+- npm start
 
-2- Back-end
+2. Back-end
 
-Para executar o back-end basta abrir um novo terminal no Visual Studio Code , mantendo o terminal do React aberto e rodando o projeto. Execute os comandos abaixo para abrir o server.
+Para executar o back-end basta abrir um novo terminal no Visual Studio Code, mantendo o terminal do React aberto e rodando o projeto. Execute os comandos abaixo para abrir o Server.
 
--cd/back
--npm install
--cd/src
--node server.js
+- cd/back
+
+- npm install
+
+- cd/src
+
+- node server.js
 
 Para verificar se tudo está funcionando basta verificar o front pelo link/porta:
 
@@ -36,11 +38,18 @@ E para verificar se a API está funcionando com o banco de dados, basta verifica
 
 http://localhost:3001/
 
-##Autores:
+
+### Autores: 
 Alvaro de Paula Santos
-Dayra Sopuza Justiniano
+
+Dayra Souza Justiniano
+
 Fabiano de Castro Horta Almeida
+
 Nicolas Mendes Ferreira da Silva
+
 Raquel Anastacio Rebelo
+
 Victor Alves Vaz
+
 Yasmin Cristiny Souza Vilhena
